@@ -1,0 +1,28 @@
+32671	Frankenstein	1931	70	Drama,Horror,Sci-Fi
+32672	Frankenstein & the Werewolf Reborn!	2005	92	Horror
+32673	Frankenstein 1970	1958	83	Horror,Sci-Fi
+32674	Frankenstein 2000	1991	93	Horror
+32675	Frankenstein '80	1972	85	Horror
+32676	Frankenstein 90	1984	92	Comedy,Horror
+32677	Frankenstein and Me	1996	91	Comedy,Family,Fantasy
+37673	Harry Potter and the Chamber of Secrets	2002	161	Adventure,Family,Fantasy
+37674	Harry Potter and the Deathly Hallows: Part 1	2010	146	Adventure,Fantasy,Mystery
+37675	Harry Potter and the Goblet of Fire	2005	157	Adventure,Family,Fantasy
+37676	Harry Potter and the Half-Blood Prince	2009	153	Action,Adventure,Family
+37677	Harry Potter and the Order of the Phoenix	2007	138	Action,Adventure,Family
+37678	Harry Potter and the Prisoner of Azkaban	2004	142	Adventure,Family,Fantasy
+37679	Harry Potter and the Sorcerer's Stone	2001	152	Adventure,Family,Fantasy
+84688	Star Trek	2009	127	Action,Adventure,Sci-Fi
+84689	Star Trek Generations	1994	118	Action,Adventure,Mystery
+84690	Star Trek II: The Wrath of Khan	1982	113	Action,Adventure,Sci-Fi
+84691	Star Trek III: The Search for Spock	1984	105	Action,Adventure,Sci-Fi
+84692	Star Trek IV: The Voyage Home	1986	119	Adventure,Comedy,Sci-Fi
+84693	Star Trek V: The Final Frontier	1989	107	Action,Adventure,Fantasy
+84694	Star Trek VI: The Undiscovered Country	1991	110	Action,Adventure,Sci-Fi
+84695	Star Trek: First Contact	1996	111	Action,Adventure,Drama
+84699	Star Wars: Episode I - The Phantom Menace	1999	136	Action,Adventure,Fantasy
+84700	Star Wars: Episode II - Attack of the Clones	2002	142	Action,Adventure,Fantasy
+84701	Star Wars: Episode III - Revenge of the Sith	2005	140	Action,Adventure,Fantasy
+84702	Star Wars: Episode IV - A New Hope	1977	121	Action,Adventure,Fantasy
+84703	Star Wars: Episode V - The Empire Strikes Back	1980	124	Action,Adventure,Fantasy
+84704	Star Wars: Episode VI - Return of the Jedi	1983	131	Action,Adventure,Fantasy

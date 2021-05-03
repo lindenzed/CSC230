@@ -1,0 +1,12 @@
+database
+add 4511
+add 111280
+add 70281
+add 4511
+list
+remove 111280
+remove 4511
+remove 111280
+remove 70281
+list
+quit

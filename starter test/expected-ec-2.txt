@@ -1,0 +1,4 @@
+cmd> genre nothing
+No matching movies
+
+cmd> quit

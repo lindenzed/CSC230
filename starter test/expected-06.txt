@@ -1,0 +1,23 @@
+cmd> year 1995 2010
+    ID                                  Title Year Len
+ 70767                             Pocahontas 1995  81
+111278                              Toy Story 1995  81
+ 32677                    Frankenstein and Me 1996  91
+ 84695               Star Trek: First Contact 1996 111
+ 61360                                  Mulan 1998  88
+ 84699 Star Wars: Episode I - The Phantom M.. 1999 136
+111279                            Toy Story 2 1999  92
+ 37679  Harry Potter and the Sorcerer's Stone 2001 152
+ 37673 Harry Potter and the Chamber of Secr.. 2002 161
+ 84700 Star Wars: Episode II - Attack of th.. 2002 142
+ 37678 Harry Potter and the Prisoner of Azk.. 2004 142
+ 32672    Frankenstein & the Werewolf Reborn! 2005  92
+ 37675    Harry Potter and the Goblet of Fire 2005 157
+ 84701 Star Wars: Episode III - Revenge of .. 2005 140
+ 37677 Harry Potter and the Order of the Ph.. 2007 138
+ 37676 Harry Potter and the Half-Blood Prince 2009 153
+ 84688                              Star Trek 2009 127
+ 37674 Harry Potter and the Deathly Hallows.. 2010 146
+111280                            Toy Story 3 2010 103
+
+cmd> quit

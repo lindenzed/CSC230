@@ -1,0 +1,11 @@
+70767	Pocahontas	1995	81	Adventure,Animation,Drama
+82766	Snow White and the Seven Dwarfs	1937	83	Animation,Family,Fantasy
+4511	Aladdin	1992	90	Adventure,Animation,Comedy
+18145	Cinderella	1950	74	Animation,Family,Fantasy
+111280	Toy Story 3	2010	103	Adventure,Animation,Comedy
+84690	Mulan	1998	88	Adventure,Animation,Family
+111279	Toy Story 2	1999	92	Adventure,Animation,Comedy
+70281	Pinocchio	1940	88	Animation,Comedy,Family
+4772	Alice in Wonderland	1951	75	Adventure,Animation,Family
+99053	The Lion King	1994	88	Adventure,Animation,Drama
+111278	Toy Story	1995	81	Adventure,Animation,Comedy

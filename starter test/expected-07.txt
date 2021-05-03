@@ -1,0 +1,4 @@
+cmd> year 1960 1970
+No matching movies
+
+cmd> quit

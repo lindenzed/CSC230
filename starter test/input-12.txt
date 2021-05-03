@@ -1,0 +1,10 @@
+database
+year 1990 1999
+list
+add 99053
+add 61360
+add 111278
+list
+remove 61360
+list
+quit
