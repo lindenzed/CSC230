@@ -1,0 +1,8 @@
+rotate
+frame
+mirror
+pgm
+output.pgm
+*.txt
+*.o
+pgmtest.pgm

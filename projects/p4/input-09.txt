@@ -1,0 +1,6 @@
+database
+list
+add 61360
+add 4772
+list
+quit

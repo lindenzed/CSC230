@@ -1,0 +1,5 @@
+database
+addd 9876
+add 9876
+year 1970 abc
+quit

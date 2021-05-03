@@ -1,0 +1,245 @@
+cmd> database
+    ID                                  Title Year Len
+  4511                                Aladdin 1992  90
+  4772                    Alice in Wonderland 1951  75
+  9876                          Batman Begins 2005 140
+ 18145                             Cinderella 1950  74
+ 32671                           Frankenstein 1931  70
+ 32672    Frankenstein & the Werewolf Reborn! 2005  92
+ 32673                      Frankenstein 1970 1958  83
+ 32674                      Frankenstein 2000 1991  93
+ 32675                       Frankenstein '80 1972  85
+ 32676                        Frankenstein 90 1984  92
+ 32677                    Frankenstein and Me 1996  91
+ 37673 Harry Potter and the Chamber of Secr.. 2002 161
+ 37674 Harry Potter and the Deathly Hallows.. 2010 146
+ 37675    Harry Potter and the Goblet of Fire 2005 157
+ 37676 Harry Potter and the Half-Blood Prince 2009 153
+ 37677 Harry Potter and the Order of the Ph.. 2007 138
+ 37678 Harry Potter and the Prisoner of Azk.. 2004 142
+ 37679  Harry Potter and the Sorcerer's Stone 2001 152
+ 61360                                  Mulan 1998  88
+ 70281                              Pinocchio 1940  88
+ 70767                             Pocahontas 1995  81
+ 82766        Snow White and the Seven Dwarfs 1937  83
+ 84082                             Spider-Man 2002 121
+ 84688                              Star Trek 2009 127
+ 84689                  Star Trek Generations 1994 118
+ 84690        Star Trek II: The Wrath of Khan 1982 113
+ 84691    Star Trek III: The Search for Spock 1984 105
+ 84692          Star Trek IV: The Voyage Home 1986 119
+ 84693        Star Trek V: The Final Frontier 1989 107
+ 84694 Star Trek VI: The Undiscovered Country 1991 110
+ 84695               Star Trek: First Contact 1996 111
+ 84699 Star Wars: Episode I - The Phantom M.. 1999 136
+ 84700 Star Wars: Episode II - Attack of th.. 2002 142
+ 84701 Star Wars: Episode III - Revenge of .. 2005 140
+ 84702     Star Wars: Episode IV - A New Hope 1977 121
+ 84703 Star Wars: Episode V - The Empire St.. 1980 124
+ 84704 Star Wars: Episode VI - Return of th.. 1983 131
+ 97401                    The Incredible Hulk 2008 112
+ 99053                          The Lion King 1994  88
+109126                                   Thor 2011 115
+111278                              Toy Story 1995  81
+111279                            Toy Story 2 1999  92
+111280                            Toy Story 3 2010 103
+118867                           Wonder Woman 2017 141
+390102                          Black Panther 2018 135
+
+cmd> add 390102
+
+cmd> add 9876
+
+cmd> add 84082
+
+cmd> add 97401
+
+cmd> add 109126
+
+cmd> add 118867
+
+cmd> add 32671
+
+cmd> add 32672
+
+cmd> add 32673
+
+cmd> add 32674
+
+cmd> add 32675
+
+cmd> add 32676
+
+cmd> add 32677
+
+cmd> add 37673
+
+cmd> add 37674
+
+cmd> add 37675
+
+cmd> add 37676
+
+cmd> add 37677
+
+cmd> add 37678
+
+cmd> add 37679
+
+cmd> add 84688
+
+cmd> add 84689
+
+cmd> add 84690
+
+cmd> add 84691
+
+cmd> add 84692
+
+cmd> add 84693
+
+cmd> add 84694
+
+cmd> add 84695
+
+cmd> add 84699
+
+cmd> add 84700
+
+cmd> add 84701
+
+cmd> add 84702
+
+cmd> add 84703
+
+cmd> add 84704
+
+cmd> add 70767
+
+cmd> add 82766
+
+cmd> add 4511
+
+cmd> add 18145
+
+cmd> add 111280
+
+cmd> add 61360
+
+cmd> add 111279
+
+cmd> add 70281
+
+cmd> add 4772
+
+cmd> add 99053
+
+cmd> add 111278
+
+cmd> list
+    ID                                  Title Year Len
+390102                          Black Panther 2018 135
+  9876                          Batman Begins 2005 140
+ 84082                             Spider-Man 2002 121
+ 97401                    The Incredible Hulk 2008 112
+109126                                   Thor 2011 115
+118867                           Wonder Woman 2017 141
+ 32671                           Frankenstein 1931  70
+ 32672    Frankenstein & the Werewolf Reborn! 2005  92
+ 32673                      Frankenstein 1970 1958  83
+ 32674                      Frankenstein 2000 1991  93
+ 32675                       Frankenstein '80 1972  85
+ 32676                        Frankenstein 90 1984  92
+ 32677                    Frankenstein and Me 1996  91
+ 37673 Harry Potter and the Chamber of Secr.. 2002 161
+ 37674 Harry Potter and the Deathly Hallows.. 2010 146
+ 37675    Harry Potter and the Goblet of Fire 2005 157
+ 37676 Harry Potter and the Half-Blood Prince 2009 153
+ 37677 Harry Potter and the Order of the Ph.. 2007 138
+ 37678 Harry Potter and the Prisoner of Azk.. 2004 142
+ 37679  Harry Potter and the Sorcerer's Stone 2001 152
+ 84688                              Star Trek 2009 127
+ 84689                  Star Trek Generations 1994 118
+ 84690        Star Trek II: The Wrath of Khan 1982 113
+ 84691    Star Trek III: The Search for Spock 1984 105
+ 84692          Star Trek IV: The Voyage Home 1986 119
+ 84693        Star Trek V: The Final Frontier 1989 107
+ 84694 Star Trek VI: The Undiscovered Country 1991 110
+ 84695               Star Trek: First Contact 1996 111
+ 84699 Star Wars: Episode I - The Phantom M.. 1999 136
+ 84700 Star Wars: Episode II - Attack of th.. 2002 142
+ 84701 Star Wars: Episode III - Revenge of .. 2005 140
+ 84702     Star Wars: Episode IV - A New Hope 1977 121
+ 84703 Star Wars: Episode V - The Empire St.. 1980 124
+ 84704 Star Wars: Episode VI - Return of th.. 1983 131
+ 70767                             Pocahontas 1995  81
+ 82766        Snow White and the Seven Dwarfs 1937  83
+  4511                                Aladdin 1992  90
+ 18145                             Cinderella 1950  74
+111280                            Toy Story 3 2010 103
+ 61360                                  Mulan 1998  88
+111279                            Toy Story 2 1999  92
+ 70281                              Pinocchio 1940  88
+  4772                    Alice in Wonderland 1951  75
+ 99053                          The Lion King 1994  88
+111278                              Toy Story 1995  81
+
+cmd> remove 84701
+
+cmd> remove 37676
+
+cmd> remove 4511
+
+cmd> remove 111278
+
+cmd> remove 390102
+
+cmd> remove 9876
+
+cmd> remove 37673
+
+cmd> remove 70767
+
+cmd> remove 111280
+
+cmd> remove 4772
+
+cmd> list
+    ID                                  Title Year Len
+ 84082                             Spider-Man 2002 121
+ 97401                    The Incredible Hulk 2008 112
+109126                                   Thor 2011 115
+118867                           Wonder Woman 2017 141
+ 32671                           Frankenstein 1931  70
+ 32672    Frankenstein & the Werewolf Reborn! 2005  92
+ 32673                      Frankenstein 1970 1958  83
+ 32674                      Frankenstein 2000 1991  93
+ 32675                       Frankenstein '80 1972  85
+ 32676                        Frankenstein 90 1984  92
+ 32677                    Frankenstein and Me 1996  91
+ 37674 Harry Potter and the Deathly Hallows.. 2010 146
+ 37675    Harry Potter and the Goblet of Fire 2005 157
+ 37677 Harry Potter and the Order of the Ph.. 2007 138
+ 37678 Harry Potter and the Prisoner of Azk.. 2004 142
+ 37679  Harry Potter and the Sorcerer's Stone 2001 152
+ 84688                              Star Trek 2009 127
+ 84689                  Star Trek Generations 1994 118
+ 84690        Star Trek II: The Wrath of Khan 1982 113
+ 84691    Star Trek III: The Search for Spock 1984 105
+ 84692          Star Trek IV: The Voyage Home 1986 119
+ 84693        Star Trek V: The Final Frontier 1989 107
+ 84694 Star Trek VI: The Undiscovered Country 1991 110
+ 84695               Star Trek: First Contact 1996 111
+ 84699 Star Wars: Episode I - The Phantom M.. 1999 136
+ 84700 Star Wars: Episode II - Attack of th.. 2002 142
+ 84702     Star Wars: Episode IV - A New Hope 1977 121
+ 84703 Star Wars: Episode V - The Empire St.. 1980 124
+ 84704 Star Wars: Episode VI - Return of th.. 1983 131
+ 82766        Snow White and the Seven Dwarfs 1937  83
+ 18145                             Cinderella 1950  74
+ 61360                                  Mulan 1998  88
+111279                            Toy Story 2 1999  92
+ 70281                              Pinocchio 1940  88
+ 99053                          The Lion King 1994  88
+
+cmd> quit

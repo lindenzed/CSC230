@@ -1,0 +1,2 @@
+invalid arguments
+usage: decrypt operation* (infile|-) (outfile|-)

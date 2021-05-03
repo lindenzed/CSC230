@@ -1,0 +1,15 @@
+cmd> database
+    ID                                  Title Year Len
+  4511                                Aladdin 1992  90
+  4772                    Alice in Wonderland 1951  75
+ 18145                             Cinderella 1950  74
+ 61360                                  Mulan 1998  88
+ 70281                              Pinocchio 1940  88
+ 70767                             Pocahontas 1995  81
+ 82766        Snow White and the Seven Dwarfs 1937  83
+ 99053                          The Lion King 1994  88
+111278                              Toy Story 1995  81
+111279                            Toy Story 2 1999  92
+111280                            Toy Story 3 2010 103
+
+cmd> quit
